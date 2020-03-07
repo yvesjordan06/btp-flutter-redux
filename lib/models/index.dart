@@ -1,0 +1,10 @@
+export 'actu_model.dart';
+export 'annonce_model.dart';
+export 'categorie_tache_model.dart';
+export 'chat_model.dart';
+export 'cv_model.dart';
+export 'message_model.dart';
+export 'metier_model.dart';
+export 'new_message_model.dart';
+export 'postule_model.dart';
+export 'user_model.dart';
